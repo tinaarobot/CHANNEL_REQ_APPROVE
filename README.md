@@ -4,13 +4,13 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🦑+🄲🄷🄰🄽🄽🄴🄻+🅁🄴🅀🅄🄴🅂🅃+🄰🄿🄿🅁🄾🅅🄴+🄱🄾🅃+🅁🄴🄿🄾+🦑">
 
 
-    ─「 ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢᴍᴇɴᴛ ʙᴏᴛ 」─
+    ─「 ᴄʜᴀɴɴᴇʟ ʀᴇǫᴜᴇsᴛ ᴀᴘᴘʀᴏᴠᴇ ʙᴏᴛ 」─
 </h3>
 
 
 </h2>
 <p align="center">
-  <img src="https://graph.org/file/ff3ad786da825b5205691.jpg">
+  <img src="https://graph.org/file/a2a25a5059be1edf981b8.jpg">
 </p>
 
  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=420&lines=🐙+🄳🄴🄿🄻🄾🅈+🄾🄽+🄷🄴🅁🄾🄺🅄+🄽🄾🅆+🐙">
