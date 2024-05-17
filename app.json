@@ -8,6 +8,7 @@
     "python",
     "program"
   ],
+  "repository": "https://github.com/tinaarobot/CHANNEL_REQ_APPROVE",
     "env": {
         "SESSION": {
             "description": "Program v2 String Session.",
@@ -50,14 +51,3 @@
 
 
 
-
-{
-  "name": "Approve-All-JoinRequests",
-  "description": "Approve all pending join requests on your telegram channel with using user session",
-  "keywords": ["telegram", "bot"],
-  "repository": "https://github.com/MrMKN/Approve-All-JoinRequests",
-  "env": {
-    "SESSION": {"description": "pyrogram v2 session string ⚠️ v2 required ⚠️", "value": ""},              
-  },
-  "buildpacks": [{"url": "heroku/python"}]
-}
